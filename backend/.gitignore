@@ -1,0 +1,13 @@
+# Environment secrets
+backend/.env
+
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+backend/hcp_crm.db
+backend/install_log.txt
+
+# Node
+frontend/node_modules/
+frontend/build/
